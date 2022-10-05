@@ -8,4 +8,4 @@
 - Pronouns: she/ her ^^
 - Programming languages: JavaScript;
 - I regulary write my projects in English, but I know a bit of Spanish too;
-- My biggest goal is complete #100DaysOfCode challenge focus on finish my JS course.
+
